@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# dataset (download it from Kaggle, see README)
+*.zip
+datasets/
+comp-472-project-fall-2026-concordia/
+
+# notebook outputs and caches
+output/
+.ipynb_checkpoints/
+__pycache__/
